@@ -1,0 +1,9 @@
+.descriptionBlock{
+    padding: 10px;
+    
+}
+img, .descriptionBlock{
+    width:600px;
+    margin-left: auto;
+    margin-right:auto;
+}
